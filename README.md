@@ -27,7 +27,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cireasageorgemichael&show_icons=true&locale=en&layout=compact" alt="cireasageorgemichael" /></p>
 </p>
 
 <h3 align="center">Languages and Tools for Web development:</h3>
